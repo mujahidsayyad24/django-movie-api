@@ -19,19 +19,33 @@ This project is perfect for showcasing your **backend development** skills using
 ## 📂 Project Structure
 
 django-movie-api/
+
 │ manage.py
+
 │ requirements.txt
+
 │
+
 ├── movierater/
+
 │ ├── settings.py
-│ ├── urls.py
+
+│ ├── urls.py 
+
 │ ├── wsgi.py
+
 │ └── asgi.py
+
 │
+
 └── api/
+
 ├── models.py
+
 ├── serializers.py
+
 ├── views.py
+
 └── urls.py
 
 
